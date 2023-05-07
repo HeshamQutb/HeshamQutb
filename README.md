@@ -25,7 +25,7 @@
 <a href="https://www.facebook.com/Hesham.ElQutb.1" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Qutb-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-DART-05122A?style=flat&logo=Dart&logoColor=1572B6)&nbsp;
+![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg)&nbsp;
 ![Flutter](https://img.shields.io/badge/-FLUTTER-05122A?style=flat&logo=Flutter)&nbsp;
 ![C++](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![OOP]()&nbsp;
