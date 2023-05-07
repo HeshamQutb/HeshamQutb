@@ -11,11 +11,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Flutter%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-<a href="https://komarev.com/ghpvc/?username=HeshamQutb&style=for-the-badge">
+
+
+<p href="https://komarev.com/ghpvc/?username=HeshamQutb&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=HeshamQutb&style=for-the-badge">
-  
-  
-</a>
+</p>
+
+
 
 - 🏢 I'm a Software Engineer (Flutter Developer).
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
