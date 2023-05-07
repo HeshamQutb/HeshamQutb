@@ -28,7 +28,7 @@
 ![Dart](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Flutter](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C++](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![OOP](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![OOP]([https://img.shields.io/OOP/v/OOP](https://img.shields.io/scoop/v/Object%20Oriented%20Programming?label=OOP))&nbsp;
 ![Data Structure](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
