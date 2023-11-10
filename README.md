@@ -20,7 +20,7 @@
 
 - 🏢 I'm a Software Engineer (Flutter Developer).
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart and Flutter, or anything related to Mobile Development.
+- 💬 Ask me about my experience with Dart and Flutter, or anything related to Mobile Development with Flutter.
 - ⚡ Fun Fact: I am a cooperative person, I love helping people in accomplishing their tasks, and this makes me very happy.
 - 👨‍💻 Check out my Linkedin at https://www.linkedin.com/in/hesham-qutb-bba58a241/ to know more about me.
 
